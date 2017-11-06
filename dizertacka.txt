@@ -1,5 +1,5 @@
 Nazov: este neviem
-Autor: Petra Artzova
+Autor: xxx
 Pocet stran: 130
 Vydavatel: STU
 Matlab: vypocty.m
